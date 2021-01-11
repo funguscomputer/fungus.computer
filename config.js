@@ -48,7 +48,7 @@ const weeknotes = {
 
 export const config = {
   inputDirectory: 'src',
-  outputDirectory: 'dist',
+  outputDirectory: 'docs',
   defaultLayout: 'default',
   copy: ['assets/**'],
   ignore: [],
