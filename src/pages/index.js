@@ -4,7 +4,7 @@ export const data = {
 
 export function render ({ data }) {
     return `
-      <h2>Weeknotes</h2>
+      <h1>Weeknotes</h1>
       ${weeknotes(data.collections.weeknotes)}
     `
 }
