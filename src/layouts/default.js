@@ -12,7 +12,7 @@ export function render ({ content, data }) {
   <link async rel="stylesheet" href="/assets/tachyons.min.css">
   <link async rel="stylesheet" href="/assets/highlight.css">
   <link async rel="stylesheet" href="/assets/style.css">
-  <script async defer data-domain="fungus.computer" src="https://plausible.io/js/plausible.js"></script>
+  <script async defer data-domain="fungus.computer" src="https://stats.fungus.computer/js/index.js"></script>
   </head>
   <body>
   ${header(data)}
