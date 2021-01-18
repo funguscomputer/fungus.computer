@@ -16,9 +16,7 @@ export function render ({ content, data }) {
   </head>
   <body>
   ${header(data)}
-  <div class="container">
-    ${content}
-  </div>
+  ${content}
   ${footer(data)}
   </body>
   </html>
