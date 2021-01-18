@@ -18,6 +18,6 @@ function weeknotes (weeknotes) {
           ${note.data.week}
         </a>
       </li>`
-    })}
+    }).join('\n')}
   </ul>`
 }

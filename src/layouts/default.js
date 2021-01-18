@@ -65,8 +65,9 @@ function footer (data) {
       <ul class="list pl0 f6">
         <li class="dib"><a href="/">Home</a></li>
         <li class="dib"><a href="/about">About</a></li>
+        <li class="dib"><a href="https://funguscomputer.bandcamp.com">Bandcamp</a></li>
+        <li class="dib"><a href="https://twitter.com/funguscomputer">Twitter</a></li>
         <li class="dib"><a href="https://github.com/funguscomputer">GitHub</a></li>
-        <li class="dib"><a href="https://twitter.com/funguscomputer">@funguscomputer</a></li>
       </ul>
       </div>
     </footer>
