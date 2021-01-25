@@ -14,16 +14,16 @@ const pages = {
   }
 }
 
-const articles = {
-  name: 'articles',
-  sourceFileTemplate: 'article',
+const fiction = {
+  name: 'fiction',
+  sourceFileTemplate: 'fiction',
   input: {
-    directory: 'articles',
+    directory: 'fiction',
     fileType: 'md'
   },
   output: {
-    layout: 'article',
-    directory: 'articles',
+    layout: 'fiction',
+    directory: 'fiction',
     fileType: 'html',
     feeds: { rss: true },
     index: { search: true }
@@ -52,6 +52,6 @@ export const config = {
   defaultLayout: 'default',
   copy: ['assets/**'],
   ignore: [],
-  collections: [pages, articles, weeknotes],
+  collections: [pages, fiction, weeknotes],
   pipelines: []
 }

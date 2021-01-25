@@ -23,40 +23,32 @@ export function render ({ content, data }) {
   `
 }
 
-function nav () {
-  return `
-    <ul class="list pl0">
-      <li class="dib"><a href="/">Home</a></li>
-      <li class="dib"><a href="/about">About</a></li>
-    </ul>
-  `
-}
-
 function header (data) {
   const { site } = data
 
   return `
-    <header>
-      <div class="container">
-      <h1>
-      <img
-        src="/assets/fungus.svg"
-        alt="funguscomputer"
-        width="60"
-        height="60"
-        style="vertical-align: middle; margin-top: -5px;"
-      />
-      ${site.title}
-    </h1>
-        ${nav()}
+    <header class="mt3 mb5">
+      <div class="container dt">
+        <h1 class="dtc w-50 ma0 v-mid f4">
+          <img
+            src="/assets/fungus.svg"
+            alt="funguscomputer"
+            width="40"
+            height="40"
+            style="vertical-align: middle; margin-top: -5px; margin-left: -8px;"
+          />
+          ${site.title}
+        </h1>
+        <ul class="dtc list pl0 w-50 v-mid ma0 tr">
+          <li class="dib"><a href="/">Home</a></li>
+          <li class="dib"><a href="/about">About</a></li>
+        </ul>
       </div>
     </header>
   `
 }
 
 function footer (data) {
-  const { site } = data
-
   return `
     <footer class="pv5">
       <div class="container">
