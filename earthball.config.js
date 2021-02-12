@@ -52,6 +52,5 @@ export const config = {
   defaultLayout: 'default',
   copy: ['assets/**'],
   ignore: [],
-  collections: [pages, fiction, weeknotes],
-  pipelines: []
+  collections: [pages, fiction, weeknotes]
 }
