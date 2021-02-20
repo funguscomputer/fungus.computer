@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fungus.computer</id>
     <title>funguscomputer</title>
-    <updated>2021-02-20T04:26:39.106Z</updated>
+    <updated>2021-02-20T04:35:13.673Z</updated>
     <generator>Earthball</generator>
     <link rel="alternate" href="https://fungus.computer"/>
     <link rel="self" href="https://fungus.computer/feeds/atom"/>
