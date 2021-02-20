@@ -4,11 +4,6 @@ export const data = {
 
 export function render ({ data }) {
     return `
-      <!--
-      <h2 class="mb1">Fiction</h2>
-      ${fiction(data.collections.fiction)}
-      -->
-
       <h2 class="mb1">Weeknotes</h2>
       ${weeknotes(data.collections.weeknotes)}
     `

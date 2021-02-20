@@ -9,7 +9,7 @@ const pages = {
     directory: '.',
     layout: 'page',
     fileType: 'html',
-    feeds: { rss: true },
+    feeds: { atom: false, json: true },
     index: { search: true }
   }
 }
@@ -25,7 +25,7 @@ const fiction = {
     layout: 'fiction',
     directory: 'fiction',
     fileType: 'html',
-    feeds: { rss: true },
+    feeds: { atom: true, json: true },
     index: { search: true }
   }
 }
@@ -41,7 +41,7 @@ const weeknotes = {
     layout: 'weeknote',
     directory: 'weeknotes',
     fileType: 'html',
-    feeds: { rss: true },
+    feeds: { atom: true, json: true },
     index: { search: true }
   }
 }

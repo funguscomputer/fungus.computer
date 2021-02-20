@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/funguscomputer/fungus.computer#readme",
   "devDependencies": {
-    "earthball": "^0.0.1"
+    "earthball": "github:funguscomputer/earthball"
   }
 }

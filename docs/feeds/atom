@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fungus.computer</id>
+    <title>funguscomputer</title>
+    <updated>2021-02-20T04:26:39.106Z</updated>
+    <generator>Earthball</generator>
+    <link rel="alternate" href="https://fungus.computer"/>
+    <link rel="self" href="https://fungus.computer/feeds/atom"/>
+    <subtitle>a home for fungal computation</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Week 1, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-01/</id>
+        <link href="https://fungus.computer/weeknotes/2021-01/"/>
+        <updated>2021-01-18T21:40:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>This is my first week existing on the world wide web as funguscomputer. It's a weird feeling.</p>
+<p>It's not my first time existing on the web. I've been around for a bit.</p>
+<p>Lately I've been  ...]]></summary>
+        <content type="html"><![CDATA[<p>This is my first week existing on the world wide web as funguscomputer. It's a weird feeling.</p>
+<p>It's not my first time existing on the web. I've been around for a bit.</p>
+<p>Lately I've been struggling with motivation. I've had zero interest in code, design, reading, researching, or any of the things I associate with being on the web.</p>
+<p>Over the last few years I completely lost the sense of wonder and curiousity I used to feel when I first learned about the web and what could be found through it.</p>
+<p>This week those feelings started to return. I started having new ideas, started finding websites that were new to me, started feeling like I might be interested in being on the world wide web again.</p>
+<p>This week I've been tinkering with various static site generators and did a first draft of a new one of my own. I haven't made a repository for it yet but may if it turns out to be useful for my sites.</p>
+<p>I've also put together some fun synth music. I hope to share those songs soon.</p>
+<p>It's weird to feel hope, to feel interested in publishing this kind of work again.</p>
+<p>Maybe it will continue.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 2, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-02/</id>
+        <link href="https://fungus.computer/weeknotes/2021-02/"/>
+        <updated>2021-01-18T21:40:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>
+<iframe style="border: 0; width: 350px; height:  ...]]></summary>
+        <content type="html"><![CDATA[<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1571955705/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/hello">hello by funguscomputer</a></iframe>
+<p>Music has been a welcome distraction from the world.</p>
+<h2>Other miscellanous notes</h2>
+<ul>
+<li>I'm learning <a href="https://deno.land">deno</a> and really appreciating the design decisions that went into it.</li>
+<li>I'm slowly learning rust and I'm not sure that I'm really a target user for this language. Making games with rust sure does feel like a valid use case though.</li>
+<li>Finding a job that is both meaningful and that leaves time for other practices like music shouldn't be so hard.</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 3, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-03/</id>
+        <link href="https://fungus.computer/weeknotes/2021-03/"/>
+        <updated>2021-01-24T01:34:00.756Z</updated>
+        <summary type="html"><![CDATA[<p>I wanted to have three things at the end of this week:</p>
+<ol>
+<li>a new song</li>
+<li>the first half of a fiction story</li>
+<li>the first version of a static site generator</li>
+</ol>
+<p>I only  ...]]></summary>
+        <content type="html"><![CDATA[<p>I wanted to have three things at the end of this week:</p>
+<ol>
+<li>a new song</li>
+<li>the first half of a fiction story</li>
+<li>the first version of a static site generator</li>
+</ol>
+<p>I only succeeded in getting the first thing done. The other too are <em>so close</em>. Maybe that means I'll have them done at the end of next week. Maybe it means they will never be done.</p>
+<p>I guess I'm ok with either of those potential futures.</p>
+<p>Here's the song:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1822133261/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/viscid-meadow-bubbling">viscid meadow bubbling by funguscomputer</a></iframe>
+<p>I'm learning a few hardware synthesizers by creating midi tracks in Ableton Live, sending the midi signal over usb, and then recording the audio output of the synths back into Live.</p>
+<p>I've got some issues to work out with a couple of the synths making weird crunch noises. Still, though, I'm pretty happy with the grumbly, grimy noises these things are making.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 4, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-04/</id>
+        <link href="https://fungus.computer/weeknotes/2021-04/"/>
+        <updated>2021-02-02T04:10:02.305Z</updated>
+        <summary type="html"><![CDATA[<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/Embed ...]]></summary>
+        <content type="html"><![CDATA[<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school">walking through the portal to school by funguscomputer</a></iframe>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 5, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-05/</id>
+        <link href="https://fungus.computer/weeknotes/2021-05/"/>
+        <updated>2021-02-12T22:47:34.204Z</updated>
+        <summary type="html"><![CDATA[<p>This week I finally published the first version of <a href="https://github.com/funguscomputer/earthball">earthball</a>, a static site generator that doesn't do much.</p>
+<p>I created it as a learni ...]]></summary>
+        <content type="html"><![CDATA[<p>This week I finally published the first version of <a href="https://github.com/funguscomputer/earthball">earthball</a>, a static site generator that doesn't do much.</p>
+<p>I created it as a learning project and to experiment with creating exactly the kind of static site generator I need. You might look at it and determine that it is very similar to eleventy. It is! I tried eleventy out a few times and really like the high level approach. I found that for my needs I want something that is more targeted at doing a specific set of things rather than something with a plugin system</p>
+<p>So far this site and <a href="https://earthball.dev">earthball.dev</a> are built with earthball. I'll be experimenting with more sites soon.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 6, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-06/</id>
+        <link href="https://fungus.computer/weeknotes/2021-06/"/>
+        <updated>2021-02-14T02:25:57.907Z</updated>
+        <summary type="html"><![CDATA[<p>This week I spent a little more time on <a href="https://github.com/funguscomputer/earthball">earthball</a> adding the ability to generate a global atom &#x26; json feed for a site.</p>
+<h2>Links</ ...]]></summary>
+        <content type="html"><![CDATA[<p>This week I spent a little more time on <a href="https://github.com/funguscomputer/earthball">earthball</a> adding the ability to generate a global atom &#x26; json feed for a site.</p>
+<h2>Links</h2>
+<ul>
+<li><a href="https://github.com/mcollina/desm">desm</a> is a nice Node.js wrapper module for getting the dirname from <code>import.meta.url</code>. This solves one of the more annoying aspects of moving to ecmascript modules: there's no longer a <code>__dirname</code> variable.</li>
+<li><a href="https://iorama.studio/">looom</a> is a fun tool for creating animations on ipad and may be perfect for creating animated gifs that act as story illustrations or graphics for marketing websites.
+<ul>
+<li>Creating canvas or webgl exports of looom animations might be possible with this <a href="https://github.com/mattdesl/looom-tools">looom-tools</a> project.</li>
+</ul>
+</li>
+<li><a href="https://github.com/ojack/hydra">Hydra</a> is an interesting tool for live coding visuals that can be used with p5.js.</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
