@@ -18,7 +18,7 @@ function weeknotes (weeknotes) {
         const note = weeknotes[key]
         return `<li>
           <a href="${note.data.permalink}">
-            ${note.data.week}
+            ${note.data.title}
           </a>
         </li>`
       }).join('\n')}
