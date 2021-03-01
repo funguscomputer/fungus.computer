@@ -22,20 +22,20 @@
             "date_modified": "2021-01-18T21:40:52.000Z"
         },
         {
-            "id": "https://fungus.computer/weeknotes/2021-04/",
-            "content_html": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school\">walking through the portal to school by funguscomputer</a></iframe>\n",
-            "url": "https://fungus.computer/weeknotes/2021-04/",
-            "title": "Week 4, 2021",
-            "summary": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/Embed ...",
-            "date_modified": "2021-02-02T04:10:02.305Z"
-        },
-        {
             "id": "https://fungus.computer/weeknotes/2021-03/",
             "content_html": "<p>I wanted to have three things at the end of this week:</p>\n<ol>\n<li>a new song</li>\n<li>the first half of a fiction story</li>\n<li>the first version of a static site generator</li>\n</ol>\n<p>I only succeeded in getting the first thing done. The other too are <em>so close</em>. Maybe that means I'll have them done at the end of next week. Maybe it means they will never be done.</p>\n<p>I guess I'm ok with either of those potential futures.</p>\n<p>Here's the song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=1822133261/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/viscid-meadow-bubbling\">viscid meadow bubbling by funguscomputer</a></iframe>\n<p>I'm learning a few hardware synthesizers by creating midi tracks in Ableton Live, sending the midi signal over usb, and then recording the audio output of the synths back into Live.</p>\n<p>I've got some issues to work out with a couple of the synths making weird crunch noises. Still, though, I'm pretty happy with the grumbly, grimy noises these things are making.</p>\n",
             "url": "https://fungus.computer/weeknotes/2021-03/",
             "title": "Week 3, 2021",
             "summary": "<p>I wanted to have three things at the end of this week:</p>\n<ol>\n<li>a new song</li>\n<li>the first half of a fiction story</li>\n<li>the first version of a static site generator</li>\n</ol>\n<p>I only  ...",
             "date_modified": "2021-01-24T01:34:00.756Z"
+        },
+        {
+            "id": "https://fungus.computer/weeknotes/2021-04/",
+            "content_html": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school\">walking through the portal to school by funguscomputer</a></iframe>\n",
+            "url": "https://fungus.computer/weeknotes/2021-04/",
+            "title": "Week 4, 2021",
+            "summary": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/Embed ...",
+            "date_modified": "2021-02-02T04:10:02.305Z"
         },
         {
             "id": "https://fungus.computer/weeknotes/2021-05/",
@@ -63,7 +63,7 @@
         },
         {
             "id": "https://fungus.computer/weeknotes/2021-08/",
-            "content_html": "<p>At the end of this week I got access to OpenAI's beta API for GPT-3. It is so much fun. Maybe over the next week I'll share some fun results from prompts that I've sent.</p>\n<h2>Links</h2>\n<ul>\n<li>AI Dungeons is a cool use of GPT-3 https://play.aidungeon.io/main/landing</li>\n<li>Futureland.tv looks like a fun way to keep a journal https://futureland.tv</li>\n<li>I really like this <a href=\"https://twitter.com/realscientists\">@realscientists</a> twitter account that features scientists, researchers, clinicians, writers, communicators and policy makers talking about their lives and their work on a rotating basis.</li>\n</ul>\n",
+            "content_html": "<p>At the end of this week I got access to OpenAI's beta API for GPT-3. It is so much fun. Maybe over the next week I'll share some fun results from prompts that I've sent.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://play.aidungeon.io/main/landing\">AI Dungeons</a> is a cool use of GPT-3</li>\n<li><a href=\"https://futureland.tv\">Futureland.tv</a> looks like a fun way to keep a journal</li>\n<li>I really like this <a href=\"https://twitter.com/realscientists\">@realscientists</a> twitter account that features scientists, researchers, clinicians, writers, communicators and policy makers talking about their lives and their work on a rotating basis.</li>\n</ul>\n",
             "url": "https://fungus.computer/weeknotes/2021-08/",
             "title": "Week 8, 2021",
             "summary": "<p>At the end of this week I got access to OpenAI's beta API for GPT-3. It is so much fun. Maybe over the next week I'll share some fun results from prompts that I've sent.</p>\n<h2>Links</h2>\n<ul>\n<li ...",
