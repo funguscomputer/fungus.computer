@@ -50,7 +50,7 @@ export const config = {
   inputDirectory: 'src',
   outputDirectory: 'docs',
   defaultLayout: 'default',
-  copy: ['assets/**'],
+  copy: ['assets/**', 'CNAME'],
   ignore: [],
   collections: [pages, fiction, weeknotes]
 }

@@ -14,12 +14,12 @@
             "date_modified": "2021-01-18T21:40:52.000Z"
         },
         {
-            "id": "https://fungus.computer/weeknotes/2021-02/",
-            "content_html": "<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=1571955705/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/hello\">hello by funguscomputer</a></iframe>\n<p>Music has been a welcome distraction from the world.</p>\n<h2>Other miscellanous notes</h2>\n<ul>\n<li>I'm learning <a href=\"https://deno.land\">deno</a> and really appreciating the design decisions that went into it.</li>\n<li>I'm slowly learning rust and I'm not sure that I'm really a target user for this language. Making games with rust sure does feel like a valid use case though.</li>\n<li>Finding a job that is both meaningful and that leaves time for other practices like music shouldn't be so hard.</li>\n</ul>\n",
-            "url": "https://fungus.computer/weeknotes/2021-02/",
-            "title": "Week 2, 2021",
-            "summary": "<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>\n<iframe style=\"border: 0; width: 350px; height:  ...",
-            "date_modified": "2021-01-18T21:40:52.000Z"
+            "id": "https://fungus.computer/weeknotes/2021-04/",
+            "content_html": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school\">walking through the portal to school by funguscomputer</a></iframe>\n",
+            "url": "https://fungus.computer/weeknotes/2021-04/",
+            "title": "Week 4, 2021",
+            "summary": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/Embed ...",
+            "date_modified": "2021-02-02T04:10:02.305Z"
         },
         {
             "id": "https://fungus.computer/weeknotes/2021-03/",
@@ -28,14 +28,6 @@
             "title": "Week 3, 2021",
             "summary": "<p>I wanted to have three things at the end of this week:</p>\n<ol>\n<li>a new song</li>\n<li>the first half of a fiction story</li>\n<li>the first version of a static site generator</li>\n</ol>\n<p>I only  ...",
             "date_modified": "2021-01-24T01:34:00.756Z"
-        },
-        {
-            "id": "https://fungus.computer/weeknotes/2021-04/",
-            "content_html": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school\">walking through the portal to school by funguscomputer</a></iframe>\n",
-            "url": "https://fungus.computer/weeknotes/2021-04/",
-            "title": "Week 4, 2021",
-            "summary": "<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/Embed ...",
-            "date_modified": "2021-02-02T04:10:02.305Z"
         },
         {
             "id": "https://fungus.computer/weeknotes/2021-05/",
@@ -75,7 +67,7 @@
             "url": "https://fungus.computer/weeknotes/2021-09/",
             "title": "Week 9, 2021",
             "summary": "<p>This week I started a new project with <a href=\"https://deno.land\">Deno</a> that is basically a tiny CMS that uses sqlite3.</p>\n<p>It's a fun little project for learning more about SQL, command-lin ...",
-            "date_modified": "2021-03-14T20:19:25.331Z"
+            "date_modified": "2021-03-14T20:30:13.733Z"
         },
         {
             "id": "https://fungus.computer/weeknotes/2021-10/",
@@ -83,7 +75,15 @@
             "url": "https://fungus.computer/weeknotes/2021-10/",
             "title": "Week 10, 2021",
             "summary": "<p>A couple weeks ago I mentioned that I was messing with the OpenAI GPT-3 API.</p>\n<p>This shit is fun.</p>\n<p>I've been working on a short fiction story for a while and got completely stuck. I abstr ...",
-            "date_modified": "2021-03-14T20:21:55.020Z"
+            "date_modified": "2021-03-14T20:30:13.733Z"
+        },
+        {
+            "id": "https://fungus.computer/weeknotes/2021-02/",
+            "content_html": "<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>\n<iframe style=\"border: 0; width: 350px; height: 442px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=1571955705/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/\" seamless><a href=\"https://funguscomputer.bandcamp.com/track/hello\">hello by funguscomputer</a></iframe>\n<p>Music has been a welcome distraction from the world.</p>\n<h2>Other miscellanous notes</h2>\n<ul>\n<li>I'm learning <a href=\"https://deno.land\">deno</a> and really appreciating the design decisions that went into it.</li>\n<li>I'm slowly learning rust and I'm not sure that I'm really a target user for this language. Making games with rust sure does feel like a valid use case though.</li>\n<li>Finding a job that is both meaningful and that leaves time for other practices like music shouldn't be so hard.</li>\n</ul>\n",
+            "url": "https://fungus.computer/weeknotes/2021-02/",
+            "title": "Week 2, 2021",
+            "summary": "<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>\n<iframe style=\"border: 0; width: 350px; height:  ...",
+            "date_modified": "2021-01-18T21:40:52.000Z"
         }
     ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fungus.computer</id>
     <title>funguscomputer</title>
-    <updated>2021-03-14T20:29:43.540Z</updated>
+    <updated>2021-03-14T20:31:45.144Z</updated>
     <generator>Earthball</generator>
     <link rel="alternate" href="https://fungus.computer"/>
     <link rel="self" href="https://fungus.computer/feeds/atom"/>
@@ -27,21 +27,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Week 2, 2021]]></title>
-        <id>https://fungus.computer/weeknotes/2021-02/</id>
-        <link href="https://fungus.computer/weeknotes/2021-02/"/>
-        <updated>2021-01-18T21:40:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>
-<iframe style="border: 0; width: 350px; height:  ...]]></summary>
-        <content type="html"><![CDATA[<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1571955705/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/hello">hello by funguscomputer</a></iframe>
-<p>Music has been a welcome distraction from the world.</p>
-<h2>Other miscellanous notes</h2>
-<ul>
-<li>I'm learning <a href="https://deno.land">deno</a> and really appreciating the design decisions that went into it.</li>
-<li>I'm slowly learning rust and I'm not sure that I'm really a target user for this language. Making games with rust sure does feel like a valid use case though.</li>
-<li>Finding a job that is both meaningful and that leaves time for other practices like music shouldn't be so hard.</li>
-</ul>
+        <title type="html"><![CDATA[Week 4, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-04/</id>
+        <link href="https://fungus.computer/weeknotes/2021-04/"/>
+        <updated>2021-02-02T04:10:02.305Z</updated>
+        <summary type="html"><![CDATA[<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/Embed ...]]></summary>
+        <content type="html"><![CDATA[<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school">walking through the portal to school by funguscomputer</a></iframe>
 ]]></content>
     </entry>
     <entry>
@@ -68,17 +61,6 @@
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1822133261/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/viscid-meadow-bubbling">viscid meadow bubbling by funguscomputer</a></iframe>
 <p>I'm learning a few hardware synthesizers by creating midi tracks in Ableton Live, sending the midi signal over usb, and then recording the audio output of the synths back into Live.</p>
 <p>I've got some issues to work out with a couple of the synths making weird crunch noises. Still, though, I'm pretty happy with the grumbly, grimy noises these things are making.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 4, 2021]]></title>
-        <id>https://fungus.computer/weeknotes/2021-04/</id>
-        <link href="https://fungus.computer/weeknotes/2021-04/"/>
-        <updated>2021-02-02T04:10:02.305Z</updated>
-        <summary type="html"><![CDATA[<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/Embed ...]]></summary>
-        <content type="html"><![CDATA[<p>Another week went by. Another week where the only fun project work that got done was a weird little song:</p>
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=420595376/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/walking-through-the-portal-to-school">walking through the portal to school by funguscomputer</a></iframe>
 ]]></content>
     </entry>
     <entry>
@@ -149,7 +131,7 @@
         <title type="html"><![CDATA[Week 9, 2021]]></title>
         <id>https://fungus.computer/weeknotes/2021-09/</id>
         <link href="https://fungus.computer/weeknotes/2021-09/"/>
-        <updated>2021-03-14T20:19:25.331Z</updated>
+        <updated>2021-03-14T20:30:13.733Z</updated>
         <summary type="html"><![CDATA[<p>This week I started a new project with <a href="https://deno.land">Deno</a> that is basically a tiny CMS that uses sqlite3.</p>
 <p>It's a fun little project for learning more about SQL, command-lin ...]]></summary>
         <content type="html"><![CDATA[<p>This week I started a new project with <a href="https://deno.land">Deno</a> that is basically a tiny CMS that uses sqlite3.</p>
@@ -162,7 +144,7 @@
         <title type="html"><![CDATA[Week 10, 2021]]></title>
         <id>https://fungus.computer/weeknotes/2021-10/</id>
         <link href="https://fungus.computer/weeknotes/2021-10/"/>
-        <updated>2021-03-14T20:21:55.020Z</updated>
+        <updated>2021-03-14T20:30:13.733Z</updated>
         <summary type="html"><![CDATA[<p>A couple weeks ago I mentioned that I was messing with the OpenAI GPT-3 API.</p>
 <p>This shit is fun.</p>
 <p>I've been working on a short fiction story for a while and got completely stuck. I abstr ...]]></summary>
@@ -171,6 +153,24 @@
 <p>I've been working on a short fiction story for a while and got completely stuck. I abstracted the plot to its most basic elements and turned that into a prompt for the davinci engine.</p>
 <p>The results were surprising. Many of them were completely unusable garbage. Others were valid directions that the story could go. My favorites were the ones that weren't directly usable, but got me thinking about new directions the story could go.</p>
 <p>This is an interesting use case for GPT-3. As the fiction story progresses, who really wrote the story? How should GPT-3 be credited? If no text generated by GPT-3 is used, if even the ideas it generates are changed before use, and considering the work that went into formulating the prompt given to GPT-3, what is the right way to frame the involvement of AI in the story? This is a fun problem to ponder.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Week 2, 2021]]></title>
+        <id>https://fungus.computer/weeknotes/2021-02/</id>
+        <link href="https://fungus.computer/weeknotes/2021-02/"/>
+        <updated>2021-01-18T21:40:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>
+<iframe style="border: 0; width: 350px; height:  ...]]></summary>
+        <content type="html"><![CDATA[<p>I've been learning to make songs with ableton live and hardware synths. There's still a lot to learn, but so far I've got one song put together:</p>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1571955705/size=large/bgcol=333333/linkcol=9a64ff/tracklist=false/transparent=true/" seamless><a href="https://funguscomputer.bandcamp.com/track/hello">hello by funguscomputer</a></iframe>
+<p>Music has been a welcome distraction from the world.</p>
+<h2>Other miscellanous notes</h2>
+<ul>
+<li>I'm learning <a href="https://deno.land">deno</a> and really appreciating the design decisions that went into it.</li>
+<li>I'm slowly learning rust and I'm not sure that I'm really a target user for this language. Making games with rust sure does feel like a valid use case though.</li>
+<li>Finding a job that is both meaningful and that leaves time for other practices like music shouldn't be so hard.</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
